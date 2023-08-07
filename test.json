@@ -1,16 +1,16 @@
 [
    {
-      "uid":"urn:uuid:feaa9750-1737-4222-9de3-40016dabdb7f",
+      "uid":"urn:uuid:feaa9750-1737-4222-9de3-40016dabdb7h",
       "updateDate":"2023-08-06T22:18:01.0Z",
       "titleText":"Hello world",
-      "mainText":"Hello guys,\n\n\n\n\n\n\n\nHow are you.",
+      "mainText":"Hello guys",
       "redirectionUrl":"https:\/\/lagosdeplata.com\/briefing\/recordatorio-noche-de-cine\/"
    },
    {
-      "uid":"urn:uuid:feaa9750-1737-4222-9de3-40016dabdb7g",
-      "updateDate":"2023-08-06T22:19:01.0Z",
+      "uid":"urn:uuid:feaa9750-1737-4222-9de3-40016dabdb7i",
+      "updateDate":"2023-07-06T22:19:01.0Z",
       "titleText":"Hello universe",
-      "mainText":"Hello boys",
+      "mainText":"",
       "redirectionUrl":"https:\/\/lagosdeplata.com\/briefing\/recordatorio-noche-de-cine\/"
    }
 ]
