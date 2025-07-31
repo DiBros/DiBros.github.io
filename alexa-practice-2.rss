@@ -3,13 +3,16 @@
   <channel>
     <ttl>30</ttl>
     <item>
-      <guid>urn:uuid:42667ad2-0ffd-4f04-973f-732564622c84</guid>
-      <title>A week in review, April third</title>
-      <link>https://developer.amazon.com/public/community/blog</link>
-      <pubDate>Wed, 14 Oct 2022 11:22:10 +0000</pubDate>
+      <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b</guid>
+      <title>Amazon Developer Blog, week in review May 23rd</title>
       <description>
-        Here is an R.S.S. feed designed to test the Alexa simulator. Let's hope this tech feed works too.
+        Meet Echosim. A new online community tool for developers that simulates the
+        look and feel of an Amazon Echo.
       </description>
+      <link>https://developer.amazon.com/public/community/blog</link>
+      <pubDate>2025-07-31T00:00:00.0Z</pubDate>
+      <enclosure url="https://developer.amazon.com/public/community/blog/myaudiofile.mp3"
+		length="12216320" type="audio/mpeg" />
      </item>
   </channel>
 </rss>
