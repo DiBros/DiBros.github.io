@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-<channel>
-  <title>Example RSS Feed</title>
-  <link>https://www.example.com</link>
-  <description>A sample RSS feed.</description>
-  <item>
-    <guid>urn:uuid:42667ad2-0ffd-4f04-973f-dfrdfgergde</guid>
-    <title>Example Item 1</title>
-    <link>https://www.example.com/item1</link>
-    <pubDate>2025-07-31T10:01:00.0Z</pubDate>
-    <description>This is the first item in the feed.</description>
-  </item>
-  <item>
-    <title>Example Item 2</title>
-    <link>https://www.example.com/item2</link>
-    <description>This is the second item in the feed.</description>
-  </item>
-</channel>
+  <channel>
+    <ttl>30</ttl>
+    <item>
+      <title>Multi Item RSS (TTS)</title>
+      <link>https://www.amazon.com</link>
+      <pubDate>2025-07-30T10:01:00.0Z</pubDate>
+      <description>This channel has multiple TTS RSS items. This is item one.</description>
+      <guid>urn:uuid:b385254e-dc31-4c4a-afc5-0de97e43923c</guid>
+    </item>
+    <item>
+      <title>Multi Item RSS (TTS)</title>
+      <link>https://www.amazon.com</link>
+      <pubDate>2025-07-30T10:05:00.0Z</pubDate>
+      <description>This channel has multiple TTS RSS items. This is item two.</description>
+      <guid>urn:uuid:cf093eed-66f2-4dee-bdad-02ff0510194b</guid>
+    </item>
+  </channel>
 </rss>
