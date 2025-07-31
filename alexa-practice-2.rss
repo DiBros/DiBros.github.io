@@ -3,7 +3,7 @@
   <channel>
     <ttl>30</ttl>
     <item>
-      <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b</guid>
+      <guid>urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6bbvcbv</guid>
       <title>Amazon Developer Blog, week in review May 23rd</title>
       <description>
         Meet Echosim. A new online community tool for developers that simulates the
@@ -11,8 +11,8 @@
       </description>
       <link>https://developer.amazon.com/public/community/blog</link>
       <pubDate>2025-07-31T00:00:00.0Z</pubDate>
-      <enclosure url="https://developer.amazon.com/public/community/blog/myaudiofile.mp3"
-		length="12216320" type="audio/mpeg" />
+      <enclosure url="https://anchor.fm/s/8fdc8590/podcast/play/105291484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-9%2F403643109-44100-2-690b6631ba88f.m4a"
+		length="3506325" type="audio/mpeg" />
      </item>
   </channel>
 </rss>
